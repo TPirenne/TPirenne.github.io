@@ -1,5 +1,5 @@
 ---
-name: Jane Smith
+name: P=Rain
 image: images/photo.jpg
 role: pi
 aliases:
