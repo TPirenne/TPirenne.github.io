@@ -1,5 +1,5 @@
 ---
-name: P=Rain
+name: P=Rain Tomaass
 image: images/photo.jpg
 role: pi
 aliases:
